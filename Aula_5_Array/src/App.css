@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.div-central-content {
+ /* border: 1px red solid; */
+
+  width: 100vh;
+  height: 90vh;
+}
+
+.temperaturas-div-geral-content {
+  /* border: 1px blue solid; */
+
+  width: 100%;
+  height: fit-content;
+
+  display: flex;
+  justify-content: space-evenly;
+}
